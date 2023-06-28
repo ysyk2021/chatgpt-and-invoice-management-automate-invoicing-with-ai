@@ -3,11 +3,6 @@ How ChatGPT can be used for Automating Invoice Management
 
 In this chapter, we will explore how AI-powered chatbot, ChatGPT, can be used to automate various aspects of the invoicing process.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is an advanced AI-powered chatbot that uses natural language processing and machine learning algorithms to provide fast and accurate responses to customer inquiries. It can be customized to fit a wide range of business needs including invoice management.
-
 How ChatGPT can be Used in Invoice Management?
 ----------------------------------------------
 
