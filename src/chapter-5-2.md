@@ -1,5 +1,3 @@
-Features and Capabilities of ChatGPT
-======================================================================
 
 ChatGPT is an AI-powered chatbot that assists in the automation of invoicing. It uses GPT (Generative Pre-trained Transformer) technology to understand and interpret natural language input from users, ensuring seamless interactions. This chapter provides an overview of ChatGPT's features and capabilities.
 

@@ -1,5 +1,3 @@
-Importance of Invoice Management for Businesses
-========================================================================================
 
 In this chapter, we will explore the basics of invoice management and discuss why it is important for businesses to have an effective invoicing process.
 

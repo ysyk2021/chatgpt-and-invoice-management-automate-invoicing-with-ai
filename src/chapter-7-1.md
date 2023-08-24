@@ -1,5 +1,3 @@
-Potential Advancements in Invoice Management with ChatGPT
-===============================================================================================================
 
 In this chapter, we will explore the potential advancements in invoice management that can be achieved through the use of ChatGPT.
 

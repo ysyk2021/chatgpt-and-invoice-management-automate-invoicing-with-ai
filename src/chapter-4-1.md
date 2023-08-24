@@ -1,5 +1,3 @@
-Introduction to AI and Chatbots
-=============================================================================================
 
 In this chapter, we will provide an introduction to AI and chatbots and how they can be used in invoice management. AI stands for artificial intelligence, while chatbots are computer programs designed to simulate human conversation.
 

@@ -1,5 +1,3 @@
-Emerging Trends and Challenges in Invoice Management and ChatGPT
-======================================================================================================================
 
 In this chapter, we will explore the emerging trends and challenges in invoice management and ChatGPT.
 

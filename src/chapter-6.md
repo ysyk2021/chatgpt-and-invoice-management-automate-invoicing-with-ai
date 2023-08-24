@@ -1,5 +1,3 @@
-Chapter 5: Implementing ChatGPT for Invoice Management
-======================================================
 
 In this chapter, we will explore the steps involved in implementing ChatGPT for automating invoicing workflows. We will also discuss some best practices and provide case studies of businesses that have successfully used ChatGPT in their invoice management processes.
 

@@ -1,5 +1,3 @@
-Chapter 1: Basics of Invoice Management
-=======================================
 
 In this chapter, we will explore the basics of invoice management. We will begin by defining what is meant by invoice management, before discussing different types of invoices. Finally, we will examine the importance of invoice management for businesses.
 

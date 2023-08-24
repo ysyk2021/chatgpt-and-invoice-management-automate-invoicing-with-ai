@@ -1,5 +1,3 @@
-What is ChatGPT?
-==================================================
 
 ChatGPT is an AI-powered chatbot designed to automate invoicing processes for businesses. It uses natural language processing (NLP) and machine learning technologies to understand and interpret user input, allowing for seamless interactions between users and the chatbot.
 

@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Invoice Management
-============================================================
 
 In this chapter, we will explore the role that AI and chatbots can play in automating invoicing. We will begin by providing an introduction to AI and chatbots, before discussing how they can be used to automate various aspects of the invoicing process. Finally, we will examine the benefits of using AI and chatbots for invoice management.
 

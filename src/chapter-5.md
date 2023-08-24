@@ -1,5 +1,3 @@
-Chapter 4: Understanding ChatGPT
-================================
 
 In this chapter, we will explore what ChatGPT is and how it can be used for automating invoice management. We will also discuss the features and capabilities of ChatGPT that make it a powerful tool for businesses.
 

@@ -1,5 +1,3 @@
-How AI and Chatbots Can Automate Invoicing
-========================================================================================================
 
 In this chapter, we will explore the role that AI and chatbots can play in automating invoicing. By leveraging advanced natural language processing capabilities and generative modeling approach, AI-powered chatbots like ChatGPT can automate various aspects of the invoicing process, making it more efficient and accurate.
 

@@ -1,5 +1,3 @@
-Different Types of Invoices
-====================================================================
 
 In this chapter, we will explore the different types of invoices that businesses may use in their invoicing processes.
 

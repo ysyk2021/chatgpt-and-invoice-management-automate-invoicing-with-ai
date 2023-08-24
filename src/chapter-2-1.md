@@ -1,5 +1,3 @@
-Definition of Invoice Management
-=========================================================================
 
 In this chapter, we will explore the basics of invoice management, beginning with a definition of what is meant by invoice management.
 

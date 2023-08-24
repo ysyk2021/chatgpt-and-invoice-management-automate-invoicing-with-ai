@@ -1,5 +1,3 @@
-Chapter 2: Challenges in Invoice Management
-===========================================
 
 In this chapter, we will explore the challenges that businesses face in invoice management. We will begin by discussing factors that can affect invoice management, before examining some common challenges that businesses face. Finally, we will discuss how these challenges can impact business operations.
 

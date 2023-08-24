@@ -1,5 +1,3 @@
-Factors Affecting Invoice Management
-=================================================================================
 
 In this chapter, we will explore the factors that can affect invoice management and contribute to the challenges businesses face. Understanding these factors is important for businesses looking to improve their invoicing workflows and address common challenges.
 
