@@ -1,5 +1,4 @@
-Chapter 6: Emerging Trends and Challenges in Invoice Management and ChatGPT
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As the field of invoice management undergoes significant transformations with the advent of AI technologies like ChatGPT, there are several emerging trends and challenges that businesses must consider. In this chapter, we will explore these trends and challenges and their implications for both invoice management practices and the utilization of ChatGPT.
 

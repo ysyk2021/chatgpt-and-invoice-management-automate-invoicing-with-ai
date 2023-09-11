@@ -1,5 +1,4 @@
-Chapter 1: Definition of Invoice Management
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Invoice management plays a vital role in the financial operations of businesses. It encompasses a series of activities involved in the processing, tracking, and handling of invoices throughout their lifecycle. In this chapter, we will explore the definition and key components of invoice management.
 

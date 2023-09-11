@@ -1,5 +1,4 @@
-Chapter 4: Automating Invoice Management with ChatGPT
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In recent years, advancements in artificial intelligence (AI) have revolutionized various industries, including invoice management. ChatGPT, with its natural language processing capabilities, can be leveraged to automate and streamline invoice management processes. In this chapter, we will explore how ChatGPT can be effectively used for automating invoice management.
 

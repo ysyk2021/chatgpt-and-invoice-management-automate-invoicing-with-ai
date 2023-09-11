@@ -1,5 +1,4 @@
-Chapter 6: Impact of These Challenges on Business Operations
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the previous chapter, we discussed the challenges and limitations associated with using ChatGPT for invoice management automation. Now, let's explore the potential impact these challenges can have on business operations and how organizations can navigate them effectively.
 

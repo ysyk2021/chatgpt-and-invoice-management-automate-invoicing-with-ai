@@ -1,5 +1,4 @@
-Chapter 2: Importance of Invoice Management for Businesses
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Invoice management is an essential aspect of financial operations for businesses. In this chapter, we will explore the significance of effective invoice management and the benefits it brings to organizations.
 

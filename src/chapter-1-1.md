@@ -1,5 +1,4 @@
-Chapter 1: Overview of the Book
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Welcome to "ChatGPT and Invoice Management: Automate Invoicing with AI." This book explores the powerful capabilities of ChatGPT, an advanced language model developed by OpenAI, and its application in automating and streamlining the invoice management process.
 

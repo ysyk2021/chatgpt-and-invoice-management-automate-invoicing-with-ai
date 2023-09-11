@@ -1,5 +1,4 @@
-Chapter 3: Different Types of Invoices
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the world of invoice management, there are various types of invoices that businesses use to bill their customers or receive payments. In this chapter, we will explore some of the commonly used types of invoices.
 

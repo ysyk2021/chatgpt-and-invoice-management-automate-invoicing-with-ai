@@ -1,5 +1,4 @@
-Chapter 9: Case Studies of Businesses Implementing ChatGPT for Invoice Management
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore real-world case studies of businesses that have successfully implemented ChatGPT for invoice management. These case studies highlight the benefits, challenges faced, and lessons learned from integrating ChatGPT into their invoice management workflows.
 

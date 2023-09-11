@@ -1,5 +1,4 @@
-Chapter 3: Features and Capabilities of ChatGPT
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT is a powerful AI model that enables businesses to automate and streamline their invoice management processes. With its natural language processing capabilities, ChatGPT offers a wide range of features and capabilities that make it a valuable tool for invoice management. In this chapter, we will explore the key features and capabilities of ChatGPT.
 

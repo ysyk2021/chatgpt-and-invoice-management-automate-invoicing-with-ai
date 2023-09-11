@@ -1,5 +1,4 @@
-Chapter 8: Steps to Implement ChatGPT for Automating Invoicing
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will outline the steps involved in implementing ChatGPT for automating invoicing processes. By following these steps, businesses can effectively integrate ChatGPT into their invoice management workflows and leverage its capabilities to streamline operations.
 

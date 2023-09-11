@@ -1,5 +1,4 @@
-Chapter 3: Factors Affecting Invoice Management
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Efficient invoice management is crucial for businesses to maintain financial health and streamline operations. However, several factors can impact the effectiveness of an organization's invoice management processes. In this chapter, we will explore some key factors that can influence invoice management and discuss how AI-powered solutions like ChatGPT can help overcome these challenges.
 

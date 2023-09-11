@@ -1,5 +1,4 @@
-Chapter 6: Future of Invoice Management with ChatGPT
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Invoice management is rapidly evolving with the advent of AI technologies like ChatGPT. In this chapter, we will explore the potential advancements, emerging trends, and future outlook for invoice management in the context of ChatGPT.
 
